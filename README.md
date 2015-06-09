@@ -2,6 +2,7 @@
 MCA 6th sem project
 
 Install Python 2.7 
+
 Install modules urllib, urlparse, mechanize,PyQt4, sys, requests, re, os, lxml, enchant
 
 
